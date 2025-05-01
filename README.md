@@ -1,3 +1,8 @@
 # senior-project
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/omarMillwood/senior-project)
+Run commands to start
+```
+npm install
+npm expo start
+```
+Then Scan QR Code
